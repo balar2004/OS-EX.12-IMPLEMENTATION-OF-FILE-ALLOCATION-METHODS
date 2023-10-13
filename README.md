@@ -58,7 +58,7 @@ x:
 }
 ```
 ## Output:
-
+![file](https://github.com/balar2004/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118791778/28c18a24-96b6-4cac-9318-193ff06895ad)
 ## Result:
 Thus, file management using sequential list is implemented successfully.
 
@@ -135,7 +135,7 @@ y:
 }
 ```
 ## Output:
-
+![file2](https://github.com/balar2004/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118791778/bcf8b742-7ed4-4fed-ae60-33f654b7660f)
 ## Result:
 Thus, file management using Indexed list is implemented successfully.
 
@@ -213,6 +213,6 @@ int main() {
 }
 ```
 ## Output:
-
+![file3](https://github.com/balar2004/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118791778/7ebe0c5e-4233-4982-8f4c-4195d53727de)
 ## Result:
 Thus, file management using Linked list is implemented successfully.
